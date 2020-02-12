@@ -1,0 +1,17 @@
+{
+  "name": "mintbean-chat",
+  "version": "1.0.0",
+  "description": "mintbean chat application",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "matt kikuchi",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
